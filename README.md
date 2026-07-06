@@ -289,6 +289,11 @@ Sistema de gestão de filas universal para Odoo 17 — tokens, painel ao vivo, A
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/mário-fernandes-6bb48b35a)
 [![GitHub](https://img.shields.io/badge/GitHub-00BFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Mario3902)
 
+<br/>
+
+[![Gmail](https://img.shields.io/badge/fernandesjorge535@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:fernandesjorge535@gmail.com)
+[![Email](https://img.shields.io/badge/mariofernandes@kiahenda.ao-0077B5?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=0D1117)](mailto:mariofernandes@kiahenda.ao)
+
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Mario3902&label=Visitantes&color=00BFFF&style=for-the-badge" alt="Profile views"/>
